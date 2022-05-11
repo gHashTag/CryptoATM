@@ -12,6 +12,8 @@
     "postinstall": "yarn pods"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.4",
+    "@walletconnect/client": "^2.0.0-beta.26",
     "react": "17.0.2",
     "react-native": "0.68.2"
   },
